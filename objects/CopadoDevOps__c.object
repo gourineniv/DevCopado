@@ -197,4 +197,16 @@
         <type>Text</type>
         <unique>false</unique>
     </fields>
+    <fields>
+        <fullName>Middle_Name__c</fullName>
+        <description>User Middle Name</description>
+        <externalId>false</externalId>
+        <inlineHelpText>Enter Your Middle name</inlineHelpText>
+        <label>Middle Name</label>
+        <length>25</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
 </CustomObject>
