@@ -199,7 +199,7 @@
     </fields>
     <fields>
         <fullName>Home_Number__c</fullName>
-        <description>User Home Number</description>
+        <description>Home Number</description>
         <externalId>false</externalId>
         <label>Home Number</label>
         <required>false</required>
@@ -208,7 +208,7 @@
     </fields>
     <fields>
         <fullName>Mobile_Number__c</fullName>
-        <description>User Mobile Number</description>
+        <description>Mobile Number</description>
         <externalId>false</externalId>
         <label>Mobile Number</label>
         <required>false</required>
